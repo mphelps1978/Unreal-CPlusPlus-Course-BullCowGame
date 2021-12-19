@@ -12,3 +12,6 @@ Fix Hard Coded Values:
   []Hidden Word  
   [X]Hidden Word Length  
   [X]Lives  
+  
+Game Over Conditions:
+  []
